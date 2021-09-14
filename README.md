@@ -20,4 +20,5 @@ spark-submit aseied.py
 ![Results](result.png)
 
 As we can see thanks to the pandemic road traffic severly droped nearly tripling average speed of taxis in New York
+
 Thanks to Spark and AWS working with such a huge amount of data was a breeze

@@ -1,7 +1,5 @@
 # ASEiED Project
 
-Simple overview of use/purpose.
-
 ## Description
 
 Visualising pandemic impact on average speed of taxis in New York
